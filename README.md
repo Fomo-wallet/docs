@@ -45,6 +45,8 @@ function storeEncryptedNumber(bytes memory encryptedNumber) public {
 }
 ```
 
+Wanna learn more [smartcontracts repository](https://github.com/Fomo-wallet/fomoWallet-contracts)
+
 ### **2. Betting Mechanics**
 
 Players place bets by submitting their guesses. The smart contract verifies the guesses securely and manages the rewards.
